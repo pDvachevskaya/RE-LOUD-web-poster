@@ -1,0 +1,1107 @@
+
+.container {
+    position: relative;
+    overflow: hidden;
+    background: rgb(255, 255, 255);
+    overflow: hidden;
+  }
+
+  .navigation {
+    display: flex;
+    width: 100vw;
+    /* justify-content: center; */
+  }
+
+  .text1 {
+    font-family: 'Golos UI Regular';
+    font-size: 1.5vw;
+    position: relative;
+    line-height: 1.5;
+    /* margin-top: 1vw;
+    margin-left: 1vw; */
+  }
+
+  .text2 {
+    font-family: 'Golos UI Regular';
+    font-size: 1.5vw;
+    position: relative;
+    line-height: 1.5;
+    /* margin-top: 1vw;
+   margin-left: 77vw; */
+  }
+
+  .mainscreen {
+    width: 100vw;
+    height: 56vw;
+    position: relative;
+  }
+
+#fourstars {
+    width: 30vw;
+    margin-top: 23vw;
+    margin-left: 68vw;
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+}
+
+#sbig1 {
+    top: 2vw;
+    width: 30vw;
+    left: 3vw;
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+}
+
+#sbig2 {
+    width: 30vw;
+    top: 25vw;
+    left: 28vw;
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;   
+}
+
+#bbig {
+    width: 30vw;
+    top: -1vw;
+    left: 39vw;
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    z-index: 11111;
+} 
+
+#arrows1 {
+position: absolute;
+background-size: 45vw;
+background-position: center;
+background-color: transparent;
+border: none;
+width: 45vw;
+height: 45vw;
+top: -3vw;
+left: -2vw;
+}
+
+#arrows2 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 45vw;
+    top: -8vw;
+    left: 33vw;
+}
+
+#arrows3 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 70vw;
+    top: 29vw;
+    left: 1vw;
+}
+
+#arrows4 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 38vw;
+    top: 36vw;
+    left: 62vw;
+}
+
+#arrows5 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 25vw;
+    top: 3vw;
+    left: 73vw;
+}
+
+    
+
+#b1 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: -2vw;
+    left: 20vw;
+    
+} 
+
+#b2 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 3vw;
+    left: 7vw;
+} 
+
+#b3 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 12vw;
+} 
+
+#b4 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 7vw;
+    left: 15vw;
+} 
+
+#s1 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: -1vw;
+    left: 11vw;
+} 
+
+#s2 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    left: 5vw;
+} 
+
+#s3 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 3vw;
+    left: 1vw;
+} 
+
+#s4 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: -1vw;
+    left: 26vw;
+} 
+
+#s5 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 2vw;
+    left: 14vw;
+} 
+
+#b5 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: -1vw;
+    left: 34vw;
+} 
+
+#b6 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 11vw;
+    left: 32vw;
+} 
+
+#b7 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: -1vw;
+    left: 72vw;
+} 
+
+#b8 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 7vw;
+    left: 66vw;
+} 
+
+#b9 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    left: 81vw;
+} 
+
+#b10 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 9vw;
+    left: 90vw;
+} 
+
+#s6 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 5vw;
+    left: 28vw;
+} 
+
+#s7 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 5vw;
+    left: 37vw;
+} 
+
+#s8 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: -2vw;
+    left: 57vw;
+} 
+
+#s9 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 6vw;
+    left: 80vw;
+} 
+
+#s10 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 8vw;
+    left: 73vw;
+} 
+
+#s11 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 16vw;
+    left: 79vw;
+} 
+
+#s12 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 4vw;
+    left: 64vw;
+} 
+
+#s13 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 33svw;
+    left: 56vw;
+} 
+
+#s14 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 15vw;
+    left: 93vw;
+} 
+
+#s15 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 48vw;
+    left: 72vw;
+} 
+
+#s16 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 17vw;
+    left: 1vw;
+} 
+
+#s17 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 25vw;
+} 
+
+#s18 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 23vw;
+    left: 7vw;
+} 
+
+#s19 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 26vw;
+    left: 27vw;
+} 
+
+#s20 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 22vw;
+    left: 39vw;
+} 
+
+#b11 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 18vw;
+    left: 87vw;
+} 
+
+#b12 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 22vw;
+    left: 92vw;
+} 
+
+#b13 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 17vw;
+    left: 62vw;
+} 
+
+#b14 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 30vw;
+    left: 63vw;
+} 
+
+#b15 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 26vw;
+    left: 52vw;
+} 
+
+#s21 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 15vw;
+    left: 68vw;
+} 
+
+#s22 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 27vw;
+    left: 89vw;
+} 
+
+#s23 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 25vw;
+    left: 58vw;
+} 
+
+#s24 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 29vw;
+    left: 43vw;
+} 
+
+#s25 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 29vw;
+    left: 33vw;
+} 
+
+#s26 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 29vw;
+    left: 8vw;
+} 
+
+#s27 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 34vw;
+    left: 20vw;
+} 
+
+
+#s28 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 37vw;
+} 
+
+
+#s29 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 25.5vw;
+    left: 18vw;
+} 
+
+
+#s30 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 42vw;
+    left: 1vw;
+} 
+
+
+#s31 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 32vw;
+    left: 93vw;
+} 
+
+
+#s32 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 39vw;
+    left: 29vw;
+} 
+
+
+#s33 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 0vw;
+    left: 87vw;
+} 
+
+
+#s34 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 46vw;
+    left: 16vw;
+} 
+
+
+#s35 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 49vw;
+    left: 10vw;
+} 
+
+
+#b16 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 30vw;
+} 
+
+#b17 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 35vw;
+    left: 14vw;
+} 
+
+#b18 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 38vw;
+    left: 5vw;
+} 
+
+#b19 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 40vw;
+    left: 9vw;
+} 
+
+#b20 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 37vw;
+    left: 94vw;
+} 
+
+#s36 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 50vw;
+    left: 30vw;
+} 
+
+#s37 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 48vw;
+    left: 36vw;
+} 
+
+#s38 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 8vw;
+    top: 48vw;
+    left: 52vw;
+} 
+
+#s39 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 41.5vw;
+    left: 50vw;
+} 
+
+#s40 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 49vw;
+    left: 60vw;
+} 
+
+#b21 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 46vw;
+    left: 25vw;
+} 
+
+#b22 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 5vw;
+    top: 51vw;
+    left: 5vw;
+} 
+
+#b23 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 50vw;
+    left: 47vw;
+} 
+
+#b24 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 40vw;
+    left: 60vw;
+} 
+
+#b25 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 45vw;
+    left: 66vw;
+} 
+
+#b26 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 9vw;
+    top: 23vw;
+    left: 65vw;
+} 
+
+#s41 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: 12vw;
+    left: 84vw;
+} 
+
+#s42 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 6vw;
+    top: -1vw;
+    left: 66vw;
+} 
+
+#s43 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 49vw;
+    left: 82vw;
+} 
+
+#s44 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: 44vw;
+    left: 92vw;
+} 
+
+#s45 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 7vw;
+    top: -2vw;
+    left: 43vw;
+    
+} 
+
+#secondPage {
+    background-color: #959bcb;
+    background-image: url("../images/zad2-06.svg");
+     width: 100%;
+    height:100%;
+    display: none;
+    position: absolute;
+    overflow: hidden;
+}
+
+
+.quote1 {
+    font-family: 'Golos UI Regular';
+    font-size: 2.5vw;
+    position: relative;
+    line-height: 1;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+    z-index: 3;
+
+}
+
+.moveback1 {
+    position: relative;
+}
+
+#back1 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 100vw;
+    height: 100%;
+    
+}
+
+#thirdPage {
+    background-color: #6db7a6;
+    background-image: url("../images/zad1-04.svg");
+    width: 100%;
+    height:100%;
+    display: none;
+    position: absolute;
+    overflow: hidden;
+}
+
+#zad1 {
+    position: absolute;
+    width: 100vw;
+}
+
+.quote2 {
+    font-family: 'Golos UI Regular';
+    font-size: 2.5vw;
+    position: relative;
+    line-height: 1;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+    z-index: 3;
+}
+
+#back2 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 100%;
+    height: 100%;
+    
+}
+
+#fourthPage {
+    background-color: #9d5187;
+    background-image: url("../images/zad3-03.svg");
+    width: 100%;
+    height:100%;
+    display: none;
+    position: absolute;
+    overflow: hidden;
+}
+
+#zad3 {
+    position: absolute;
+    width: 100%;
+}
+
+.quote3 {
+    font-family: 'Golos UI Regular';
+    font-size: 2.5vw;
+    position: relative;
+    line-height: 1;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+    z-index: 3;
+}
+
+#back3 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 100vw;
+    height: 100%;
+    
+}
+
+#dots1{
+    position: absolute;
+    width: 7vw;
+    top: 27vw;
+    left: 67vw;
+}
+
+#dots2{
+    position: absolute;
+    width: 7vw;
+    top: 20vw;
+    left: 43vw;
+}
+
+#dots3{
+    position: absolute;
+    width: 7vw;
+    top: 20vw;
+    left: 22vw;
+}
+
+#dots4{
+    position: absolute;
+    width: 7vw;
+    top: 31vw;
+    left: 12vw;
+}
+
+#dots5{
+    position: absolute;
+    width: 7vw;
+    top: 5vw;
+    left: 5vw;
+}
+
+#fifthPage {
+    background-color: #e8b629;
+    background-image: url("../images/zad4-05.svg");
+    width: 100%;
+    height:100%;
+    display: none;
+    position: absolute;
+    overflow: hidden;
+}
+
+.quote4 {
+    font-family: 'Golos UI Regular';
+    font-size: 2.5vw;
+    position: relative;
+    line-height: 1.5;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+    z-index: 3;
+}
+
+#zad4 {
+    position: absolute;
+    width: 100%;
+}
+
+#back4 {
+    position: absolute;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    width: 100vw;
+    height: 100%;
+}
+
+#b1, #b3, #b5, #b7, #b9, #b11, #b13, #b15, #b17, #b19, #b20, #b21, #b23, #b25, #s1, #s3, #s5, #s7, #s9, #s11, #s13, #s15, #s17, #s19, #s21, #s23, #s25, #s27, #s29, #s31, #s33, #s35, #s37, #s39, #s41, #s43
+{
+    animation: dvig1 0.5s infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes dvig1 {
+  0% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+
+#b2, #b4, #b6, #b8, #b10, #b12, #b14, #b16, #b18, #b20, #b22, #b24, #b26, #s2, #s4, #s6, #s8, #s10, #s12, #s14, #s16, #s18, #s20, #s22, #s24, #s26, #s28, #s30, #s32, #s34, #s36, #s38, #s40, #s42, #s44, #s45
+{
+    animation: dvig2 0.5s infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes dvig2 {
+  0% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+#fourstars, #sbig1, #sbig2, #bbig {
+    animation: dvig3 0.5s infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes dvig3 {
+    0% {
+      transform: scale(1);
+    }
+    100% {
+      transform: scale(0.9);
+    }
+  }
+
+  #stone1, #stone2, #stone3, #stone4 
+  {
+    animation: rot1 2s infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+  }
+
+  @keyframes rot1 {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      rotate: 360deg;
+    }
+}
+
+#dots1, #dots2, #dots3, #dots4, #dots5 {
+    animation: rot2 2s infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes rot2 {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      rotate: 360deg;
+    }
+}
+
+
+  
